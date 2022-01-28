@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "SEoZSLB7wPg4J+0gmz0tdsaI++W4tjlFP32Qprd1MMGaWJmYEh3E/ccwBWo4W2RUZT0t0grKgWPMquhqAkeDQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arsiv\\source\\repos\\dorduncuhaftaodevi-FeyzaBagiroz\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arsiv\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\Arsiv\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\Arsiv\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Arsiv\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Arsiv\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Arsiv\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Arsiv\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
